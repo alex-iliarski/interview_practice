@@ -1,2 +1,2 @@
-This repo is used to personally practice questions that are commonly asked on programming interviews.
+This repo is used for personal practice of questions that are commonly asked on programming interviews.
 These questions are taken from https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7.
